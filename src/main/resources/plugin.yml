@@ -1,0 +1,4 @@
+name: SkysongItems
+version: '${version}'
+main: org.skysong.skysongitems.SkysongItems
+api-version: '1.20'
